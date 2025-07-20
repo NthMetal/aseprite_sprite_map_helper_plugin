@@ -1,5 +1,7 @@
 # Sprite Map Helper
 
+![Example_Painting](readme/Aseprite_PlTLTXMUE5.gif)
+
 ## About
 The following video gives a quick summary on the technique this plugin aims to help with: https://www.youtube.com/watch?v=HsOKwUwL1bE
 
@@ -19,3 +21,12 @@ The following video gives a quick summary on the technique this plugin aims to h
 5. In either of the two windows you can scroll wheel to zoom, and middle mouse button to pan.
 6. In the `Texture Sampler` you can select a pixel, this will change your brush color to the **coordinates** of the selected pixel. 
 7. The `Preview` will show the output for the current frame and current layer. You can select the `Composite all visible layers` option to preview all layers at once.
+
+## Notes
+
+* Unfortunately there's no way to view where a pixel points to from the map other than the preview.
+
+## Possible improvements
+
+* When your mouse is hovering over the preview, show where that pixel came from in the texture
+* Allow an area to be selected and painted
