@@ -25,6 +25,7 @@ The following video gives a quick summary on the technique this plugin aims to h
 ## Notes
 
 * Unfortunately there's no way to view where a pixel points to from the map other than the preview.
+* Check out https://nthmetal.github.io/SpriteMapHelper/ which has similar functionality and lets you look where coordinates map to.
 
 ## Possible improvements
 
