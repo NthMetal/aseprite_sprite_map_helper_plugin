@@ -2,8 +2,6 @@
 
 ![Example_Painting](readme/Aseprite_PlTLTXMUE5.gif)
 
-![Example_Texture_Edits](readme/Aseprite_YLGGxxdMHs.gif)
-
 ## About
 The following video gives a quick summary on the technique this plugin aims to help with: https://www.youtube.com/watch?v=HsOKwUwL1bE
 
@@ -34,6 +32,12 @@ The following video gives a quick summary on the technique this plugin aims to h
 * When your mouse is hovering over the preview, show where that pixel came from in the texture
 * Allow an area to be selected and painted
 
+# Sprite Texture Helper
+
+![Example_Texture_Edits](readme/Aseprite_YLGGxxdMHs.gif)
+
+## About
+A similar tool to sprite map helper that's mainly used to show a preview to aid in editing textures
 
 ## How to use: Sprite Texture Helper
 
